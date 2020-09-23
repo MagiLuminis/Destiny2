@@ -12116,6 +12116,7 @@ dimwishlist:item=715338174&perks=3666208348,599007201,2590710093,818211479
 // sourced from https://docs.google.com/spreadsheets/d/1ZEr_TCdCenhBcviXQ5iAKzrPWa_oEav5rvXdy4QaD6I/edit#gid=0
 
 //Oxygen SR3
+dimwishlist:item=3907337522&perks=1392496348,3142289711,3865257976,1941225610,2697220197
 
 //The Recluse
 dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624
