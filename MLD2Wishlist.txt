@@ -14003,332 +14003,11 @@ dimwishlist:item=1167153950&perks=1467527085,2420895100,2869569095,2848615171#no
 dimwishlist:item=1167153950&perks=3661387068,2420895100,2869569095,2848615171#notes:pandapaxxy Shadowkeep PvE
 
 //Arc Logic (version 1)
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3425386926#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3523296417#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,3643424744,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,1168162263,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,106909392,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,2420895100,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1840239774,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=1482024992,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
-dimwishlist:item=2723909519&perks=4090651448,1087426260,2869569095,3400784728#notes:pandapaxxy Shadowkeep PvE
+dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,1890422124#notes:MagiLuminis - PVP
+dimwishlist:item=2723909519&perks=4090651448,106909392,3124871000,1890422124#notes:MagiLuminis - PVE
+dimwishlist:item=2723909519&perks=4090651448,106909392,3124871000,3523296417,3425386926#notes:MagiLuminis - PVE
+dimwishlist:item=2723909519&perks=4090651448,106909392,3124871000,3425386926,3523296417#notes:MagiLuminis - PVE
 
-//Arc Logic (version 2)
 
 //Dream Breaker (version 1)
 
@@ -19190,7 +18869,7 @@ dimwishlist:item=2582755344&perks=1840239774,3230963543,3300816228,3511092054
 dimwishlist:item=2582755344&perks=839105230,3230963543,3300816228,3511092054
 dimwishlist:item=2582755344&perks=1392496348,3230963543,3300816228,3511092054
 
-// Seventh Seraph SAW
+//Seventh Seraph SAW
 //notes:pandapaxxy (M+KB / PvP): "In PvP the Seraph MG is just behind Fixed Odds, it cannot get perks like Firmly Planted or even Quickdraw. But it can make for a better shooting experience with Zen Moment and Mulligan in the event that you miss." Recommended MW - Handling.|tags:mkb,pvp
 dimwishlist:item=2582755344&perks=1840239774,1885400500,2387244414,3511092054
 dimwishlist:item=2582755344&perks=839105230,1885400500,2387244414,3511092054
@@ -19232,7 +18911,7 @@ dimwishlist:item=2582755344&perks=1482024992,1561002382,3300816228,3513791699
 title:u/pandapaxxy's Season of the Worthy Seraph Weapons, Controller edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/fiqpdl/seraph_weapons_controller/
 
-// Seventh Seraph Carbine
+//Seventh Seraph Carbine
 //notes:pandapaxxy (Controller / PvE): "It does fine but there’s only one thing of note. Fourth Time’s the Charm is interesting on an auto for crushing through majors and ultras, but if you’re using your kinetic auto for boss DPS you might get some weird looks from your fireteam members." Recommended MW - Reload.|tags:controller,pve
 dimwishlist:item=1561006927&perks=1840239774,1561002382,1354429876,3425386926
 dimwishlist:item=1561006927&perks=839105230,1561002382,1354429876,3425386926
@@ -19290,7 +18969,7 @@ dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,1546637391
 dimwishlist:item=1561006927&perks=3661387068,1968497646,3300816228,1546637391
 
 
-// Seventh Seraph Carbine
+//Seventh Seraph Carbine
 //notes:pandapaxxy (Controller / PvP): "Nothing crazy on this weapon, but also nothing to scoff at. If you like 450 autos this will do some decent work." Recommended MW - Stability or Handling.|tags:controller,pvp
 dimwishlist:item=1561006927&perks=1482024992,1885400500,3161816588,2846385770
 dimwishlist:item=1561006927&perks=1392496348,1885400500,3161816588,2846385770
@@ -19365,7 +19044,7 @@ dimwishlist:item=1561006927&perks=1482024992,1561002382,4071163871,1546637391
 dimwishlist:item=1561006927&perks=1392496348,1561002382,4071163871,1546637391
 dimwishlist:item=1561006927&perks=3661387068,1561002382,4071163871,1546637391
 
-// Seventh Seraph Officer Revolver
+//Seventh Seraph Officer Revolver
 //notes:pandapaxxy (Controller / PvE): "In PvE You could get some utility from Ambitious Assassin and High-Impact Reserves if they do stack well for more damage, but I feel like most people will gravitate towards Multikill Clip for its ease of use and ability to be refreshed easier than Kill Clip. 2/10 utility, 10/10 funny pew pew." Recommended MW - Reload or Handling.|tags:controller,pve
 dimwishlist:item=3037520408&perks=1840239774,106909392,2010801679,2779035018
 dimwishlist:item=3037520408&perks=4090651448,106909392,2010801679,2779035018
@@ -19450,7 +19129,7 @@ dimwishlist:item=3037520408&perks=4090651448,2420895100,4071163871,2213355989
 dimwishlist:item=3037520408&perks=1482024992,2420895100,4071163871,2213355989
 
 
-// Seventh Seraph Officer Revolver
+//Seventh Seraph Officer Revolver
 //notes:pandapaxxy (Controller / PvP): "This archetype of hand cannon does NOT need increased accuracy and reduced flinch when crouched. Will it be amazing? No it won’t." Recommended MW - Handling or Stability.|tags:controller,pvp
 dimwishlist:item=3037520408&perks=1392496348,3177308360,280464955,1954620775
 dimwishlist:item=3037520408&perks=3661387068,3177308360,280464955,1954620775
@@ -19480,7 +19159,7 @@ dimwishlist:item=3037520408&perks=1392496348,3230963543,280464955,1546637391
 dimwishlist:item=3037520408&perks=3661387068,3230963543,280464955,1546637391
 dimwishlist:item=3037520408&perks=1482024992,3230963543,280464955,1546637391
 
-// Seventh Seraph CQC-12
+//Seventh Seraph CQC-12
 //notes:pandapaxxy (Controller / PvE): "It will be fine for PvE, Trench Barrel has fallen off in terms of best shotgun perk, but will work fine if you have nothing else." Recommended MW - Reload.|tags:controller,pve
 dimwishlist:item=1821724780&perks=1300023272,791862061,3300816228,1546637391
 dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,1546637391
@@ -19537,7 +19216,7 @@ dimwishlist:item=1821724780&perks=1300023272,1087426260,3161816588,2360754333
 dimwishlist:item=1821724780&perks=4090651448,1087426260,3161816588,2360754333
 dimwishlist:item=1821724780&perks=1482024992,1087426260,3161816588,2360754333
 
-// Seventh Seraph CQC-12
+//Seventh Seraph CQC-12
 //notes:pandapaxxy (Controller / PvP): "What I’m excited for is this weapon's use in PvP. [...] a good lightweight Quickdraw shotgun will add nicely to my collection." Recommended MW - Handling or Reload.|tags:controller,pvp
 dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887
 dimwishlist:item=1821724780&perks=1482024992,791862061,706527188,957782887
@@ -19576,7 +19255,7 @@ dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=1821724780&perks=1482024992,3142289711,3161816588,1546637391
 dimwishlist:item=1821724780&perks=1332244541,3142289711,3161816588,1546637391
 
-// Seventh Seraph SI-2
+//Seventh Seraph SI-2
 //notes:pandapaxxy (Controller / PvE): "The lightweight class has been dominated by the Anonymous Autumn [...] the Seraph sidearm has both Demolitionist and Dragonfly, a unique combination only found on 3 weapons (including this one) as well as Vorpal weapon which instantly makes it better for majors and bosses." Recommended MW - Reload.|tags:controller,pve
 dimwishlist:item=3937866388&perks=1840239774,1087426260,3523296417,2848615171
 dimwishlist:item=3937866388&perks=839105230,1087426260,3523296417,2848615171
@@ -19633,7 +19312,7 @@ dimwishlist:item=3937866388&perks=1840239774,106909392,4267945040,3708227201
 dimwishlist:item=3937866388&perks=839105230,106909392,4267945040,3708227201
 dimwishlist:item=3937866388&perks=4090651448,106909392,4267945040,3708227201
 
-// Seventh Seraph SI-2
+//Seventh Seraph SI-2
 //notes:pandapaxxy (Controller / PvP): "The lightweight class has been dominated by the Anonymous Autumn [...] the Seraph sidearm has both Demolitionist and Dragonfly, a unique combination only found on 3 weapons (including this one) as well as Vorpal weapon which instantly makes it better for majors and bosses." Recommended MW - Stability or Handling.|tags:controller,pvp
 dimwishlist:item=3937866388&perks=1840239774,3142289711,3523296417,2387244414
 dimwishlist:item=3937866388&perks=3661387068,3142289711,3523296417,2387244414
@@ -19717,7 +19396,7 @@ dimwishlist:item=3937866388&perks=1840239774,3177308360,4267945040,1546637391
 dimwishlist:item=3937866388&perks=3661387068,3177308360,4267945040,1546637391
 dimwishlist:item=3937866388&perks=1392496348,3177308360,4267945040,1546637391
 
-// Seventh Seraph SAW
+//Seventh Seraph SAW
 //notes:pandapaxxy (Controller / PvP): "Another 360 machine gun following suit to Fixed Odds the Seraph MG is both great and bad. [...] if this archetype receives a buff it will be top tier, but until then it will just be a novelty." Recommended MW - Reload.|tags:controller,pvp
 dimwishlist:item=2582755344&perks=1840239774,1087426260,2284787283,1771339417
 dimwishlist:item=2582755344&perks=839105230,1087426260,2284787283,1771339417
@@ -19801,7 +19480,7 @@ dimwishlist:item=2582755344&perks=1840239774,3230963543,3300816228,3511092054
 dimwishlist:item=2582755344&perks=839105230,3230963543,3300816228,3511092054
 dimwishlist:item=2582755344&perks=1392496348,3230963543,3300816228,3511092054
 
-// Seventh Seraph SAW
+//Seventh Seraph SAW
 //notes:pandapaxxy (Controller / PvP): "In PvP the Seraph MG is just behind Fixed Odds, it cannot get perks like Firmly Planted or even Quickdraw. But it can make for a better shooting experience with Zen Moment and Mulligan in the event that you miss." Recommended MW - Handling or Stability.|tags:controller,pvp
 dimwishlist:item=2582755344&perks=1840239774,1885400500,2387244414,3511092054
 dimwishlist:item=2582755344&perks=839105230,1885400500,2387244414,3511092054
@@ -19840,10 +19519,10 @@ dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,3513791699
 dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,3513791699
 dimwishlist:item=2582755344&perks=1482024992,1561002382,3300816228,3513791699
 
-// First In, Last Out
+//First In, Last Out
 dimwishlist:item=3616586446&perks=202670084,106909392,3300816228,1546637391#notes:MagiLuminis - PVE
 
-// Hollow Words
+//Hollow Words
 //notes:pandapaxxy (PvE / M+KB): "the gold standard will always be Loaded Question. Is Hollow Words good enough to replace LQ? Kinda, yeah. Hollow Words will not have the pure DPS of the reservoir burst but unlike LQ Hollow Words has access to both vorpal and disruption break." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=607191995&perks=1840239774,1483536627,2779035018,1546637391
 dimwishlist:item=607191995&perks=3250034553,1483536627,2779035018,1546637391
@@ -19901,7 +19580,7 @@ dimwishlist:item=607191995&perks=3250034553,1687452232,1556840489,3108830275
 dimwishlist:item=607191995&perks=1482024992,1687452232,1556840489,3108830275
 
 
-// Hollow Words
+//Hollow Words
 //notes:pandapaxxy (PvP / M+KB): "Precision fusion rifles have pretty vertical recoil patterns so you can instead spec into range to push out the damage drop off a tad or into stability to make the burst easier to control. All you have to do is break an enemies’ shield. Then, for 5 seconds they take 50% increased kinetic damage. This is huge because Hollow Words is an energy weapon so your Thorn, Spare or Dire all do 50% increased damage to both the body and the crit. Better yet it is team-wide. So you don’t even have to finish the guardian who’s shield you broke. Anyone on your side has that increased kinetic damage." Recommended MW: Handling.|tags:pvp,mkb
 dimwishlist:item=607191995&perks=1840239774,3868766766,706527188,1683379515
 dimwishlist:item=607191995&perks=839105230,3868766766,706527188,1683379515
@@ -19940,7 +19619,7 @@ dimwishlist:item=607191995&perks=1840239774,2969185026,2450788523,3108830275
 dimwishlist:item=607191995&perks=839105230,2969185026,2450788523,3108830275
 dimwishlist:item=607191995&perks=1482024992,2969185026,2450788523,3108830275
 
-// IKELOS_HC_v1.0.2
+//IKELOS_HC_v1.0.2
 //notes:pandapaxxy (PvE / M+KB): "The Ikelos hand cannon is back and my gripes with it previously are still in effect. A low handling and reload speed coupled with a piss-poor magazine make for an overall poor experience." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=1200824700&perks=1840239774,1087426260,3400784728,3425386926
 dimwishlist:item=1200824700&perks=839105230,1087426260,3400784728,3425386926
@@ -19998,7 +19677,7 @@ dimwishlist:item=1200824700&perks=839105230,2420895100,1820235745,1546637391
 dimwishlist:item=1200824700&perks=4090651448,2420895100,1820235745,1546637391
 
 
-// IKELOS_HC_v1.0.2
+//IKELOS_HC_v1.0.2
 //notes:pandapaxxy (PvP / M+KB): "The Ikelos hand cannon is back and my gripes with it previously are still in effect. A low handling and reload speed coupled with a piss-poor magazine make for an overall poor experience." Recommended MW: Handling.|tags:pvp,mkb
 dimwishlist:item=1200824700&perks=1840239774,1140096971,4071163871,699525795
 dimwishlist:item=1200824700&perks=4090651448,1140096971,4071163871,699525795
@@ -20038,7 +19717,7 @@ dimwishlist:item=1200824700&perks=4090651448,1431678320,2039302152,1683379515
 dimwishlist:item=1200824700&perks=3250034553,1431678320,2039302152,1683379515
 
 
-// IKELOS_SG_v1.0.2
+//IKELOS_SG_v1.0.2
 //notes:pandapaxxy (PvE / M+KB): "I’m actually excited to see the Ikelos shotgun back in the game. I spent far too long trying to get this and it’s just one more trench barrel shotgun to throw in my vault (reminder to clean out your vault). In PvE here’s a new recommendation. Any perk within the last column can be useful, yes even elemental capacitor." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=1096206669&perks=1840239774,106909392,2779035018
 dimwishlist:item=1096206669&perks=839105230,106909392,2779035018
@@ -20069,7 +19748,7 @@ dimwishlist:item=1096206669&perks=839105230,679225683,4071163871
 dimwishlist:item=1096206669&perks=4090651448,679225683,4071163871
 
 
-// IKELOS_SG_v1.0.2
+//IKELOS_SG_v1.0.2
 //notes:pandapaxxy (PvP / M+KB): "In PvP rapid-fire frames are on the very short list of bad shotguns for crucible." Recommended MW: Handling.|tags:pvp,mkb
 dimwishlist:item=1096206669&perks=3250034553,3142289711,588594999,1683379515
 dimwishlist:item=1096206669&perks=1840239774,3142289711,588594999,1683379515
@@ -20097,7 +19776,7 @@ dimwishlist:item=1096206669&perks=1840239774,679225683,280464955,3511092054
 dimwishlist:item=1096206669&perks=202670084,679225683,280464955,3511092054
 
 
-// Berenger's Memory
+//Berenger's Memory
 //notes:pandapaxxy (PvE / M+KB): "Unfortunately 150 grenade launchers time in the sun has ended." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3523296417
 dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417
@@ -20127,7 +19806,7 @@ dimwishlist:item=407621213&perks=981914802,3301904089,706527188,1683379515
 dimwishlist:item=407621213&perks=3525010810,3301904089,706527188,1683379515
 dimwishlist:item=407621213&perks=3798852852,3301904089,706527188,1683379515
 
-// Berenger's Memory
+//Berenger's Memory
 //notes:pandapaxxy (PvP / M+KB): "Unfortunately 150 grenade launchers time in the sun has ended." Recommended MW: Blast Radius.|tags:pvp,mkb
 dimwishlist:item=407621213&perks=1844523823,409831596,706527188,1683379515
 dimwishlist:item=407621213&perks=1441682018,409831596,706527188,1683379515
@@ -20136,11 +19815,11 @@ dimwishlist:item=407621213&perks=1844523823,409831596,706527188,3523296417
 dimwishlist:item=407621213&perks=1441682018,409831596,706527188,3523296417
 dimwishlist:item=407621213&perks=1478423395,409831596,706527188,3523296417
 
-// Temptation's Hook
+//Temptation's Hook
 dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130,3708227201#notes:MagiLuminis - PVE
 dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391,3708227201#notes:MagiLuminis - PVE
 
-// Death Adder
+//Death Adder
 //notes:pandapaxxy (PvE / M+KB): "Death Adder has feeding frenzy but has the potential for better add clear through dragonfly. It won’t have the highest damage output but being able to clear rooms of enemies easier and with less bullets cannot be overstated. [...] It’s not necessarily a better Recluse, but it’s certainly more flexible." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=2742490609&perks=1840239774,106909392,2779035018,2848615171
 dimwishlist:item=2742490609&perks=4090651448,106909392,2779035018,2848615171
@@ -20225,7 +19904,7 @@ dimwishlist:item=2742490609&perks=4090651448,2420895100,1820235745,706527188
 dimwishlist:item=2742490609&perks=3250034553,2420895100,1820235745,706527188
 
 
-// Death Adder
+//Death Adder
 //notes:pandapaxxy (PvP / M+KB): "In PvP you’re honestly almost better using Recluse. Getting a precision damage increase on ANY weapon kill is just so easy to use. Death Adder has consistency through various means and the possibility for better range and stability." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,2846385770
 dimwishlist:item=2742490609&perks=1482024992,3142289711,1359896290,2846385770
@@ -20264,15 +19943,15 @@ dimwishlist:item=2742490609&perks=3250034553,1431678320,1359896290,699525795
 dimwishlist:item=2742490609&perks=1482024992,1431678320,1359896290,699525795
 dimwishlist:item=2742490609&perks=202670084,1431678320,1359896290,699525795
 
-// IKELOS_SMG_v1.0.2
+//IKELOS_SMG_v1.0.2
 dimwishlist:item=2222560548&perks=4090651448,106909392,4071163871,1546637391,3708227201#notes:MagiLuminis - PVE
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1631667848,1546637391,3708227201#notes:MagiLuminis - PVE
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1359896290,1890422124#notes:MagiLuminis - PVP
 
-// IKELOS_SR_v1.0.2
+//IKELOS_SR_v1.0.2
 dimwishlist:item=1253087083&perks=4090651448,106909392,1354429876,2213355989#notes:MagiLuminis - PVE
 
-// Widow's Bite
+//Widow's Bite
 //notes:pandapaxxy (PvE / M+KB): "While I love the aesthetic of Veist weapons they all have been done before. Apostate, Twilight Oath, or even Omniscient Eye are all great PvP weapons with the ability for a good PvE roll. The Ikelos sniper has been reintroduced this season and just last season we got Distant Tumulus. The rapid-fire sniper rifle pool is so large compared to the aggressive frames. If this sniper were moved up two impact classes I could see it standing on its own, but Widow’s Bite doesn’t do anything remarkable that the aforementioned snipers can’t do; and by now you already have a good roll on them." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=1271343896&perks=1840239774,1087426260,1556840489,3523296417
 dimwishlist:item=1271343896&perks=839105230,1087426260,1556840489,3523296417
@@ -20330,7 +20009,7 @@ dimwishlist:item=1271343896&perks=839105230,106909392,280464955,706527188
 dimwishlist:item=1271343896&perks=4090651448,106909392,280464955,706527188
 
 
-// Widow's Bite
+//Widow's Bite
 //notes:pandapaxxy (PvP / M+KB): "While I love the aesthetic of Veist weapons they all have been done before. Apostate, Twilight Oath, or even Omniscient Eye are all great PvP weapons with the ability for a good PvE roll. The Ikelos sniper has been reintroduced this season and just last season we got Distant Tumulus. The rapid-fire sniper rifle pool is so large compared to the aggressive frames. If this sniper were moved up two impact classes I could see it standing on its own, but Widow’s Bite doesn’t do anything remarkable that the aforementioned snipers can’t do; and by now you already have a good roll on them." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=1271343896&perks=3250034553,3142289711,280464955,706527188
 dimwishlist:item=1271343896&perks=1840239774,3142289711,280464955,706527188
@@ -20369,7 +20048,7 @@ dimwishlist:item=1271343896&perks=3250034553,106909392,3161816588,47981717
 dimwishlist:item=1271343896&perks=1840239774,106909392,3161816588,47981717
 dimwishlist:item=1271343896&perks=202670084,106909392,3161816588,47981717
 
-// Hoosegow
+//Hoosegow
 //notes:pandapaxxy (PvE / M+KB): "Unfortunately rockets need a sizable buff in PvE for them to be more than an expensive add clear. They don’t do enough on bosses even specced for max damage and they don’t offer enough to be used to clear adds over a primary. They have no true identity other than a fire and forget weapon but grenade launchers can do a similar job with more in a magazine." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,1275731761
 dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,1275731761
@@ -20397,7 +20076,7 @@ dimwishlist:item=3669616453&perks=3525010810,2985827016,3300816228,3523296417
 dimwishlist:item=3669616453&perks=3798852852,2985827016,3300816228,3523296417
 
 
-// Hoosegow
+//Hoosegow
 //notes:pandapaxxy (PvP / M+KB): "In PvP the fire and forget is valuable but the low ammo and potential to waste your heavy by missing over the very tried and true Wardcliff or Truth is hard to pass up. [...] I think it will be a decent pass until a buff." Recommended MW: Blast Radius.|tags:pvp,mkb
 dimwishlist:item=3669616453&perks=1844523823,3796465595,3977735242,1275731761
 dimwishlist:item=3669616453&perks=1441682018,3796465595,3977735242,1275731761
@@ -20413,7 +20092,7 @@ dimwishlist:item=3669616453&perks=1441682018,1996142143,3977735242,3523296417
 dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,3523296417
 
 
-// Negative Space
+//Negative Space
 //notes:pandapaxxy (M+KB / PvE): "Negative Space falls on the bad end of swords this season. [..] use either of the two other swords introduced this season." Recommended MW: Impact.|tags:mkb,pve
 dimwishlist:item=3629968765&perks=3666208348,2349202967,1749209109,3913600130
 dimwishlist:item=3629968765&perks=2827049491,2349202967,1749209109,3913600130
@@ -20471,7 +20150,7 @@ dimwishlist:item=3629968765&perks=2827049491,599007201,2590710093,1683379515
 dimwishlist:item=3629968765&perks=938542991,599007201,2590710093,1683379515
 
 
-// Negative Space
+//Negative Space
 //notes:pandapaxxy (PvP / M+KB): "Negative Space falls on the bad end of swords this season. [..] use either of the two other swords introduced this season." Recommended MW: Impact.|tags:pvp,mkb
 dimwishlist:item=3629968765&perks=3666208348,2349202967,2590710093,3016987351
 dimwishlist:item=3629968765&perks=2827049491,2349202967,2590710093,3016987351
@@ -20511,7 +20190,7 @@ dimwishlist:item=3629968765&perks=2827049491,599007201,1749209109,3708227201
 dimwishlist:item=3629968765&perks=938542991,599007201,1749209109,3708227201
 
 
-// The Forward Path
+//The Forward Path
 //notes:pandapaxxy (PvE / M+KB): "In PvE you really just want to go for the tried and true reload and damage buffs, nothing crazy and really not worth investing time into the new perks for PvE." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=1690783811&perks=13792278,106909392,2779035018,2458213969
 dimwishlist:item=1690783811&perks=13792279,106909392,2779035018,2458213969
@@ -20551,7 +20230,7 @@ dimwishlist:item=1690783811&perks=13792279,1431678320,1354429876,4082225868
 dimwishlist:item=1690783811&perks=2405638014,1431678320,1354429876,4082225868
 
 
-// The Forward Path
+//The Forward Path
 //notes:pandapaxxy (PvP / M+KB): "PvP is a different story with iron grip being added. Reload can be circumvented by a variety of ways and a slower reload never stopped people before. The +20 stability is massive and means that you could reliably invest in all range or handling over stability as that perk alone would cover a ton of your utility." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,1890422124
 dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,1890422124
@@ -20579,7 +20258,7 @@ dimwishlist:item=1690783811&perks=2405638015,106909392,2779035018,699525795
 dimwishlist:item=1690783811&perks=679077873,106909392,2779035018,699525795
 
 
-// The Fool's Remedy
+//The Fool's Remedy
 //notes:pandapaxxy (PvE / M+KB): "Unfortunately this sidearm burns through ammo so fast and the damage output is on the lower end. If you already have a sidearm you like for PvE then use that." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=65611680&perks=445755707,1087426260,2779035018,1015611457
 dimwishlist:item=65611680&perks=445755706,1087426260,2779035018,1015611457
@@ -20619,7 +20298,7 @@ dimwishlist:item=65611680&perks=445755706,679225683,1354429876,706527188
 dimwishlist:item=65611680&perks=445755705,679225683,1354429876,706527188
 
 
-// The Fool's Remedy
+//The Fool's Remedy
 //notes:pandapaxxy (PvP / M+KB): "In PvP these fill a certain niche. Always being between 6-8 shots to kill can result in some really fun plays and the intrinsic full auto means you won’t have to dedicate a perk to it, unlike Drang. You won’t be able to map people with this sidearm but within that 10-15m range you could do exceptionally well with a consistent sidearm." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=65611680&perks=445755706,1561002382,588594999,2846385770
 dimwishlist:item=65611680&perks=445755704,1561002382,588594999,2846385770
@@ -20704,7 +20383,7 @@ dimwishlist:item=65611680&perks=445755704,679225683,2779035018,706527188
 dimwishlist:item=65611680&perks=445755707,679225683,2779035018,706527188
 
 
-// Nature of the Beast
+//Nature of the Beast
 //notes:pandapaxxy (PvE / M+KB): "On controller this gun is a nice addition with quickdraw and dragonfly for something other precision frames lacked. But unfortunately you’re just better off using a higher impact hand cannon. Both the recoil feels off on MnK and the damage is just too low for me to reliably recommend over the alternatives. Sunshot is a straight upgrade, Jack Queen King 3 has higher impact and can roll demolitionist alongside dragonfly and has the lightweight bonus. It’s not that Nature of the Beast is bad, it's more that other hand cannons are just better." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=1835747805&perks=1926090094,1087426260,706527188,2848615171
 dimwishlist:item=1835747805&perks=1926090095,1087426260,706527188,2848615171
@@ -20762,7 +20441,7 @@ dimwishlist:item=1835747805&perks=1926090095,2420895100,1820235745,1546637391
 dimwishlist:item=1835747805&perks=1926090092,2420895100,1820235745,1546637391
 
 
-// Nature of the Beast
+//Nature of the Beast
 //notes:pandapaxxy (PvP / M+KB): "On controller this gun is a nice addition with quickdraw and dragonfly for something other precision frames lacked. But unfortunately you’re just better off using a higher impact hand cannon. Both the recoil feels off on MnK and the damage is just too low for me to reliably recommend over the alternatives. Sunshot is a straight upgrade, Jack Queen King 3 has higher impact and can roll demolitionist alongside dragonfly and has the lightweight bonus. It’s not that Nature of the Beast is bad, it's more that other hand cannons are just better." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=1835747805&perks=1926090095,3142289711,706527188,2846385770
 dimwishlist:item=1835747805&perks=1926090093,3142289711,706527188,2846385770
@@ -20801,7 +20480,7 @@ dimwishlist:item=1835747805&perks=1926090095,106909392,957782887,1546637391
 dimwishlist:item=1835747805&perks=1926090093,106909392,957782887,1546637391
 dimwishlist:item=1835747805&perks=1926090094,106909392,957782887,1546637391
 
-// Truthteller
+//Truthteller
 //notes:pandapaxxy (PvE / M+KB): "Not gonna lie, this is the only gun I am seriously excited about. In PvE it won’t beat out Mountaintop, Militia’s Birthright or even Orewing’s Maul. But it does have a couple different builds you could go for that put it in a niche class." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,3523296417
 dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,3523296417
@@ -20832,7 +20511,7 @@ dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,2458213969
 dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,2458213969
 
 
-// Truthteller
+//Truthteller
 //notes:pandapaxxy (PvP / Controller): "Disruption break on a grenade launcher is gonna be slightly toxic. Break a guardian’s shield and get a massive 50% damage increase on all kinetic damage is gonna be a huge team shot weapon." Recommended MW: Handling.|tags:pvp,controller
 dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,1683379515
 dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,1683379515
@@ -20890,7 +20569,7 @@ dimwishlist:item=1946491241&perks=3798852852,2822142346,2869569095,706527188
 dimwishlist:item=1946491241&perks=1441682018,2822142346,2869569095,706527188
 
 
-// Truthteller
+//Truthteller
 //notes:pandapaxxy (PvP / M+KB): "Disruption break on a grenade launcher is gonna be slightly toxic. Break a guardian’s shield and get a massive 50% damage increase on all kinetic damage is gonna be a huge team shot weapon." Recommended MW: Handling.|tags:pvp,mkb
 dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,1683379515
 dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,1683379515
@@ -20929,18 +20608,18 @@ dimwishlist:item=1946491241&perks=3525010810,409831596,2779035018,3523296417
 dimwishlist:item=1946491241&perks=3798852852,409831596,2779035018,3523296417
 dimwishlist:item=1946491241&perks=1441682018,409831596,2779035018,3523296417
 
-// Falling Guillotine
+//Falling Guillotine
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130,3708227201#notes:MagiLuminis - PVE
 
 //False Promises
 dimwishlist:item=3143732432&perks=3250034553,1561002382,3643424744,3425386926#notes:MagiLuminis - PVE
 
-// Whispering Slab
+//Whispering Slab
 dimwishlist:item=211938782&perks=852209214,3311977193,201365942,1546637391#notes:MagiLuminis - PVE
 dimwishlist:item=211938782&perks=852209214,3827198035,201365942,1546637391#notes:MagiLuminis - PVE
 dimwishlist:item=211938782&perks=852209214,3429800428,706527188,47981717#notes:MagiLuminis - PVP
 
-// Hollow Words
+//Hollow Words
 //notes:pandapaxxy (PvE / Controller): "the gold standard will always be Loaded Question. Is Hollow Words good enough to replace LQ? Kinda, yeah. Hollow Words will not have the pure DPS of the reservoir burst but unlike LQ Hollow Words has access to both vorpal and disruption break." Recommended MW: Reload.|tags:pve,controller
 dimwishlist:item=607191995&perks=1840239774,1483536627,2779035018,1546637391
 dimwishlist:item=607191995&perks=1392496348,1483536627,2779035018,1546637391
@@ -23114,58 +22793,6 @@ dimwishlist:item=1167153950&perks=839105230,1885400500,205890336,2848615171#note
 dimwishlist:item=1167153950&perks=1467527085,1885400500,205890336,2848615171#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=1167153950&perks=839105230,679225683,205890336,2848615171#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=1167153950&perks=1467527085,679225683,205890336,2848615171#notes:pandapaxxy Shadowkeep PvP
-
-//Arc Logic (version 1)
-dimwishlist:item=2723909519&perks=839105230,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,1890422124#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,1168162263,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=839105230,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1482024992,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-dimwishlist:item=2723909519&perks=1467527085,3142289711,588594999,2846385770#notes:pandapaxxy Shadowkeep PvP
-
-//Arc Logic (version 2)
 
 //Dream Breaker (version 1)
 
