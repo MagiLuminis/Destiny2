@@ -18359,12 +18359,12 @@ dimwishlist:item=3937866388&perks=1840239774,3177308360,4267945040,1546637391
 dimwishlist:item=3937866388&perks=1467527085,3177308360,4267945040,1546637391
 dimwishlist:item=3937866388&perks=3661387068,3177308360,4267945040,1546637391
 
-// Seventh Seraph VY-7
+//Seventh Seraph VY-7
 dimwishlist:item=766323545&perks=839105230,106909392,1354429876,3865257976#notes:MagiLuminis - PVE
 dimwishlist:item=766323545&perks=839105230,106909392,1354429876,1546637391#notes:MagiLuminis - PVE
 dimwishlist:item=766323545&perks=1392496348,3142289711,1354429876,1546637391#notes:MagiLuminis - PVP
 
-// Seventh Seraph SAW
+//Seventh Seraph SAW
 //notes:pandapaxxy (M+KB / PvE): "Another 360 machine gun following suit to Fixed Odds the Seraph MG is both great and bad. [...] if this archetype receives a buff it will be top tier, but until then it will just be a novelty." Recommended MW - Reload.|tags:mkb,pve
 dimwishlist:item=2582755344&perks=1840239774,1087426260,2284787283,1771339417
 dimwishlist:item=2582755344&perks=839105230,1087426260,2284787283,1771339417
