@@ -18328,8 +18328,6 @@ dimwishlist:item=1821724780&perks=4090651448,,3300816228,1546637391#notes:MagiLu
 dimwishlist:item=1821724780&perks=1047830412,,3161816588,957782887,2360754333#notes:MagiLuminis - PVP
 dimwishlist:item=1821724780&perks=1482024992,,706527188,957782887,2360754333#notes:MagiLuminis - PVP
 
-
-
 //Seventh Seraph SI-2
 //notes:pandapaxxy (Controller / PvE): "The lightweight class has been dominated by the Anonymous Autumn [...] the Seraph sidearm has both Demolitionist and Dragonfly, a unique combination only found on 3 weapons (including this one) as well as Vorpal weapon which instantly makes it better for majors and bosses." Recommended MW - Reload.|tags:controller,pve
 dimwishlist:item=3937866388&perks=1840239774,1087426260,3523296417,2848615171
@@ -26689,14 +26687,8 @@ dimwishlist:item=3233390913&perks=839105230,106909392,588594999,4082225868
 dimwishlist:item=3233390913&perks=4090651448,106909392,588594999,4082225868
 dimwishlist:item=3233390913&perks=1482024992,106909392,588594999,4082225868
 
-// Infinite Paths 8 (PvP / controller)
-//notes:pandapaxxy (PvP / controller): "Steady Rounds, Moving Target, and Eye of the Storm or Zen Moment will be an insanely sticky and reliable pulse. I want to try and get that roll just to see what near 100% stability just feels like." Recommended MW: Stability.
-
 // Last Hope
 dimwishlist:item=3622137132&perks=445755705,1885400500,2779035018,2458213969#notes:MagiLuminis - PVE
-
-// Traveler's Judgment 5 (PvE / controller)
-//notes:pandapaxxy (PvE / controller): "There really isn’t anything Traveler’s Judgement 5 does better than say Last Dance or Last Hope, but the fact that it has Rapid Hit makes it unique compared to the others. Paired with Disruption Break or Dragonfly can mean a really solid and fun gun for low end PvE." Recommended MW: Reload or Handling.
 
 // Traveler's Judgment 5 (PvE / controller)
 //notes:pandapaxxy (PvE / controller): "There really isn’t anything Traveler’s Judgement 5 does better than say Last Dance or Last Hope, but the fact that it has Rapid Hit makes it unique compared to the others. Paired with Disruption Break or Dragonfly can mean a really solid and fun gun for low end PvE." Recommended MW: Reload or Handling.
@@ -28740,3 +28732,9 @@ dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,1600092898#not
 dimwishlist:item=2209003210&perks=1467527085,1687452232,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
 dimwishlist:item=2209003210&perks=839105230,2969185026,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
 dimwishlist:item=2209003210&perks=1467527085,2969185026,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
+
+//Braytech Werewolf
+dimwishlist:item=528834068&perks=3250034553,1968497646,2387244414,2458213969#notes:MagiLuminis - CR
+dimwishlist:item=528834068&perks=4090651448,1968497646,1354429876,1546637391#notes:MagiLuminis - PVE
+dimwishlist:item=528834068&perks=4090651448,1885400500,1354429876,4082225868#notes:MagiLuminis - PVE
+dimwishlist:item=528834068&perks=839105230,1968497646,3513791699,4082225868#notes:MagiLuminis - PVE
