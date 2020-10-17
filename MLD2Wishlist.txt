@@ -16846,7 +16846,7 @@ dimwishlist:item=1723380073&perks=445755705,1087426260,4267945040,2846385770
 // Escape Velocity
 dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,1546637391#notes:MagiLuminis - PVE
 dimwishlist:item=1786797708&perks=663495154,106909392,3643424744,1546637391#notes:MagiLuminis - PVE
-
+dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,1774574192#notes:MagiLuminis - PVE
 
 // True Prophecy
 //notes:pandapaxxy (Controller / PvE): "True Prophecy is a great gun, nothing amazing about it, but definitely great for PvE. Overflow on a hand cannon has always been great, and this archetype needs it." Recommended MW - Reload or Handling.|tags:controller,pve
