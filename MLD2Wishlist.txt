@@ -18127,10 +18127,9 @@ dimwishlist:item=3037520408&perks=3661387068,3230963543,280464955,1546637391
 dimwishlist:item=3037520408&perks=1482024992,3230963543,280464955,1546637391
 
 //Seventh Seraph CQC-12
-dimwishlist:item=1821724780&perks=4090651448,,3300816228,2360754333#notes:MagiLuminis - PVE
-dimwishlist:item=1821724780&perks=4090651448,,3300816228,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=1821724780&perks=1047830412,,3161816588,957782887,2360754333#notes:MagiLuminis - PVP
-dimwishlist:item=1821724780&perks=1482024992,,706527188,957782887,2360754333#notes:MagiLuminis - PVP
+dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,2360754333#notes:MagiLuminis - PVE
+dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,1546637391#notes:MagiLuminis - PVE
+dimwishlist:item=1821724780&perks=1482024992,791862061,706527188,957782887,2360754333#notes:MagiLuminis - PVP
 
 //Seventh Seraph SI-2
 //notes:pandapaxxy (Controller / PvE): "The lightweight class has been dominated by the Anonymous Autumn [...] the Seraph sidearm has both Demolitionist and Dragonfly, a unique combination only found on 3 weapons (including this one) as well as Vorpal weapon which instantly makes it better for majors and bosses." Recommended MW - Reload.|tags:controller,pve
