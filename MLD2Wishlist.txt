@@ -16723,11 +16723,10 @@ dimwishlist:item=2807687156&perks=3250034553,3230963543,972757866,706527188
 dimwishlist:item=2807687156&perks=1482024992,3230963543,972757866,706527188
 
 //Jian 7 Rifle
-dimwishlist:item=1162247618&perks=3151536500,1561002382,1683379515,2846385770#notes:MagiLuminis - PVP
+dimwishlist:item=1162247618&perks=3151536500,1561002382,2387244414,2846385770#notes:MagiLuminis - PVP
 dimwishlist:item=1162247618&perks=3151536500,1885400500,1683379515,2846385770#notes:MagiLuminis - PVP
 dimwishlist:item=1162247618&perks=3151536500,1968497646,1683379515,3865257976#notes:MagiLuminis - PVE
 dimwishlist:item=1162247618&perks=3151536500,1561002382,4267945040,2846385770#notes:MagiLuminis - PVE
-
 
 //Timelines' Vertex
 //notes:pandapaxxy (Controller / PvE): "It won’t kill groups like Loaded Question but it will take out shields and serve other utilities." Recommended MW - Reload.|tags:controller,pve
