@@ -1,3 +1,6 @@
+//Arsenic Bite-4B
+dimwishlist:item=720351795&perks=852209214,2154191829,201365942,3425386926#notes:MagiLuminis - CR
+
 //Valakadyn
 dimwishlist:item=1518042135&perks=4090651448,1885400500,1359896290,1015611457#notes:MagiLuminis - PVE
 dimwishlist:item=1518042135&perks=839105230,3230963543,1890422124,1015611457#notes:MagiLuminis - PVP
