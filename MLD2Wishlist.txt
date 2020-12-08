@@ -17518,6 +17518,7 @@ dimwishlist:item=2582755344&perks=839105230,1968497646,2284787283,1546637391#not
 
 //First In, Last Out
 dimwishlist:item=3616586446&perks=202670084,106909392,3300816228,1546637391#notes:MagiLuminis - PVE
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391#notes:myfi - PVE
 
 //IKELOS_HC_v1.0.2
 //notes:pandapaxxy (PvE / M+KB): "The Ikelos hand cannon is back and my gripes with it previously are still in effect. A low handling and reload speed coupled with a piss-poor magazine make for an overall poor experience." Recommended MW: Reload.|tags:pve,mkb
