@@ -1,3 +1,13 @@
+//Season 12 - Season of the Hunt
+
+//Xenoclast IV
+dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,1546637391#notes:MagiLuminis - PVE
+dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2360754333#notes:MagiLuminis - PVE
+dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2679249093#notes:MagiLuminis - PVE
+dimwishlist:item=2891672170&perks=1332244541,679225683,3300816228,699525795#notes:MagiLuminis - PVP
+
+//==============================================================================================================
+
 //Arsenic Bite-4B
 dimwishlist:item=720351795&perks=852209214,2154191829,201365942,3425386926#notes:MagiLuminis - CR
 dimwishlist:item=720351795&perks=852209214,2154191829,3865257976,201365942#notes:MagiLuminis - PVE
