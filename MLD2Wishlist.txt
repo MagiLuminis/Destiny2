@@ -1,5 +1,5 @@
 //Season 12 - Season of the Hunt
-
+<
 //Crowd Pleaser
 <
 dimwishlist:item=3565520715&perks=1441682018,3301904089,2284787283,3523296417#notes:MagiLuminis - G.R
@@ -14,7 +14,7 @@ dimwishlist:item=2891672170&perks=1332244541,679225683,3300816228,699525795#note
 >
 
 //==============================================================================================================
-
+>
 
 //Season 11 - Season of Arrivals
 <
@@ -24,6 +24,8 @@ dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,2458213969,460
 dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,2458213969,4082225868#notes:MagiLuminis - PVP
 dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,2458213969,460017080#notes:MagiLuminis - PVP
 dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,4082225868#notes:MagiLuminis - PVE
+dimwishlist:item=1216130969&perks=839105230,2420895100,2450788523,2458213969#notes:MagiLuminis - TEST
+
 >
 
 
