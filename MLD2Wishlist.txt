@@ -1,5 +1,9 @@
 //Season 12 - Season of the Hunt
 
+//Crowd Pleaser
+dimwishlist:item=3565520715&perks=1441682018,3301904089,2284787283,3523296417#notes:MagiLuminis - G.R
+
+
 //Xenoclast IV
 dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,1546637391#notes:MagiLuminis - PVE
 dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2360754333#notes:MagiLuminis - PVE
