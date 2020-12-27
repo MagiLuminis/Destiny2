@@ -11036,12 +11036,6 @@ dimwishlist:item=3704653637&perks=2827049491,2349202967,354401740,3708227201
 dimwishlist:item=3704653637&perks=3666208348,2349202967,354401740,3708227201
 dimwishlist:item=3704653637&perks=938542991,2349202967,354401740,3708227201
 
-// pandapaxxy's season of the drifter picks - pvp edition
-// sourced from https://docs.google.com/spreadsheets/d/1ZEr_TCdCenhBcviXQ5iAKzrPWa_oEav5rvXdy4QaD6I/edit#gid=0
-
-//Oxygen SR3
-
-
 //The Recluse
 dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624
 
@@ -11908,15 +11902,14 @@ dimwishlist:item=188882152&perks=3151536500,3177308360,2846385770,4267945040
 dimwishlist:item=188882152&perks=3151536501,3177308360,2846385770,4267945040
 
 //Night Watch
-dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:MagiLuminis - CR
-dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973,2458213969#notes:MagiLuminis - PVE
-dimwishlist:item=3504336176&perks=839105230,3177308360,247725512,3038247973,2458213969#notes:MagiLuminis - PVP
-
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:MagiLuminis - C.R
+dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973#notes:MagiLuminis - PVE
+dimwishlist:item=3504336176&perks=839105230,3177308360,247725512,3038247973#notes:MagiLuminis - PVP
 
 //Lonesome
-dimwishlist:item=2199171672&perks=202670084,1885400500,4267945040,1015611457,4082225868#notes:MagiLuminis - PVP
-dimwishlist:item=2199171672&perks=1482024992,1561002382,4267945040,2458213969,4082225868#notes:MagiLuminis - PVP
-dimwishlist:item=2199171672&perks=839105230,1885400500,4267945040,2458213969,4082225868#notes:MagiLuminis - PVE
+dimwishlist:item=2199171672&perks=839105230,1885400500,4267945040,1015611457#notes:MagiLuminis - PVP
+dimwishlist:item=2199171672&perks=839105230,1885400500,4267945040,3523296417#notes:MagiLuminis - PVE
+
 
 //Bug-Out Bag
 dimwishlist:item=2744715540&perks=839105230,106909392,2387244414,2458213969
@@ -16984,7 +16977,7 @@ dimwishlist:item=3037520408&perks=1482024992,3230963543,280464955,1546637391
 //Seventh Seraph CQC-12
 dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,2360754333#notes:MagiLuminis - PVE
 dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=1821724780&perks=1482024992,791862061,706527188,957782887,2360754333#notes:MagiLuminis - PVP
+dimwishlist:item=1821724780&perks=1482024992,791862061,706527188,957782887#notes:MagiLuminis - PVP
 
 //Seventh Seraph SI-2
 //notes:pandapaxxy (Controller / PvE): "The lightweight class has been dominated by the Anonymous Autumn [...] the Seraph sidearm has both Demolitionist and Dragonfly, a unique combination only found on 3 weapons (including this one) as well as Vorpal weapon which instantly makes it better for majors and bosses." Recommended MW - Reload.|tags:controller,pve
