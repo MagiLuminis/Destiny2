@@ -1,5 +1,11 @@
 //Season 12 - Season of the Hunt
 <
+//Bonechiller
+<
+dimwishlist:item=4037745684&perks=4090651448,791862061,3300816228,3523296417#notes:MagiLuminis - G.R
+dimwishlist:item=4037745684&perks=4090651448,679225683,3300816228,47981717#notes:MagiLuminis - PVP
+>
+
 //Crowd Pleaser
 <
 dimwishlist:item=3565520715&perks=1441682018,3301904089,2284787283,3523296417#notes:MagiLuminis - G.R
