@@ -6,6 +6,14 @@ dimwishlist:item=4037745684&perks=4090651448,791862061,3300816228,3523296417#not
 dimwishlist:item=4037745684&perks=4090651448,679225683,3300816228,47981717#notes:MagiLuminis - PVP
 >
 
+//Glacioclasm
+<
+dimwishlist:item=1030895163&perks=839105230,1687452232,,4082225868#notes:MagiLuminis - G.R
+dimwishlist:item=1030895163&perks=839105230,1687452232,2450788523,4082225868#notes:MagiLuminis - G.R
+dimwishlist:item=1030895163&perks=839105230,1687452232,,3523296417#notes:MagiLuminis - G.R
+dimwishlist:item=1030895163&perks=839105230,1687452232,2450788523,3523296417#notes:MagiLuminis - G.R
+>
+
 //Crowd Pleaser
 <
 dimwishlist:item=3565520715&perks=1441682018,3301904089,2284787283,3523296417#notes:MagiLuminis - G.R
