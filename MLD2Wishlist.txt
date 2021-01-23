@@ -5,6 +5,13 @@
 dimwishlist:item=3565520715&perks=1441682018,3301904089,2284787283,3523296417#notes:MagiLuminis - G.R
 >
 
+//Subzero Salvo
+<
+dimwishlist:item=42351395&perks=3798852852,3796465595,2450788523,1275731761#notes:MagiLuminis - G.R
+dimwishlist:item=42351395&perks=3798852852,3796465595,706527188,1275731761#notes:MagiLuminis - G.R
+dimwishlist:item=42351395&perks=332773068,2985827016,2010801679,2396489472#notes:MagiLuminis - PVE
+>
+
 //Xenoclast IV
 <
 dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,1546637391#notes:MagiLuminis - PVE
