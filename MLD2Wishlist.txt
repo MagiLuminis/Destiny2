@@ -1,5 +1,12 @@
 //Season 12 - Season of the Hunt
 <
+//Hawkmoon (Exotic)
+<
+dimwishlist:item=3856705927&perks=4090651448,1431678320,47981717,3326204863#notes:FalloutPlays - G.R
+dimwishlist:item=3856705927&perks=1482024992,1431678320,47981717,3326204863#notes:FalloutPlays - G.R
+dimwishlist:item=3856705927&perks=3250034553,1431678320,47981717,3326204863#notes:FalloutPlays - G.R
+>
+
 //Bonechiller
 <
 dimwishlist:item=4037745684&perks=4090651448,791862061,3300816228,3523296417#notes:MagiLuminis - G.R
