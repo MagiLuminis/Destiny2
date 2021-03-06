@@ -1,3 +1,21 @@
+//Season 13 - Season of the Chosen
+<
+//Bottom Dollar
+<
+dimwishlist:item=1046651176&perks=4090651448,3142289711,2846385770,3425386926#notes:MagiLuminis - PVP
+dimwishlist:item=1046651176&perks=4090651448,106909392,3124871000,3038247973#notes:MagiLuminis - PVE
+dimwishlist:item=1046651176&perks=4090651448,106909392,247725512,3425386926#notes:MagiLuminis - G.R
+>
+
+//Far Future - Sniper Rifle
+<
+dimwishlist:item=893527433&perks=1840239774,106909392,706527188,47981717#notes:MagiLuminis - PVP
+dimwishlist:item=893527433&perks=1482024992,106909392,3436462433,893527433#notes:MagiLuminis - PVE
+dimwishlist:item=893527433&perks=839105230,3142289711,706527188,47981717#notes:MagiLuminis - PVP
+dimwishlist:item=893527433&perks=4090651448,106909392,3436462433,4104185692#notes:MagiLuminis - PVE
+>
+>
+
 //Season 12 - Season of the Hunt
 <
 //Hawkmoon (Exotic)
