@@ -15,6 +15,11 @@ dimwishlist:item=893527433&perks=839105230,3142289711,706527188,47981717#notes:M
 dimwishlist:item=893527433&perks=4090651448,106909392,3436462433,4104185692#notes:MagiLuminis - PVE
 >
 >
+//Trinary System
+<
+dimwishlist:item=3258665412&perks=839105230,1687452232,3300816228,2213355989#notes:MagiLuminis - G.R
+dimwishlist:item=3258665412&perks=839105230,1687452232,2450788523,2213355989#notes:MagiLuminis - PVE
+>
 
 //Season 12 - Season of the Hunt
 <
