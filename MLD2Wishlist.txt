@@ -23,6 +23,14 @@ dimwishlist:item=893527433&perks=1482024992,106909392,3436462433,893527433#notes
 dimwishlist:item=893527433&perks=839105230,3142289711,706527188,47981717#notes:MagiLuminis - PVP
 dimwishlist:item=893527433&perks=4090651448,106909392,3436462433,4104185692#notes:MagiLuminis - PVE
 >
+
+//Tarantula (Linear Fusion Rifle)
+<
+dimwishlist:item=3335343363&perks=1840239774,1687452232,2779035018,3865257976#notes:MagiLuminis - G.R
+dimwishlist:item=3335343363&perks=839105230,689005463,588594999,957782887#notes:MagiLuminis - PVP
+dimwishlist:item=3335343363&perks=1840239774,1687452232,2779035018,893527433#notes:MagiLuminis - G.R
+>
+
 //Trinary System
 <
 dimwishlist:item=3258665412&perks=839105230,1687452232,3300816228,2213355989#notes:MagiLuminis - G.R
