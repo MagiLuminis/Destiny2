@@ -7,6 +7,13 @@ dimwishlist:item=1046651176&perks=4090651448,106909392,3124871000,3038247973#not
 dimwishlist:item=1046651176&perks=4090651448,106909392,247725512,3425386926#notes:MagiLuminis - G.R
 >
 
+//Brass Attack (Side Arm)
+<
+dimwishlist:item=2121785039&perks=1482024992,1087426260,247725512,3425386926#notes:MagiLuminis - G.R
+dimwishlist:item=2121785039&perks=1482024992,1087426260,247725512,3865257976#notes:MagiLuminis - G.R
+dimwishlist:item=2121785039&perks=1482024992,1087426260,247725512,4104185692#notes:MagiLuminis - G.R
+>
+
 //Code Duello (Rocket Launcher)
 <
 dimwishlist:item=2496242052&perks=332773068,2985827016,951095735,2396489472#notes:MagiLuminis - C.R
@@ -16,7 +23,7 @@ dimwishlist:item=2496242052&perks=3525010810,3796465595,951095735,1275731761#not
 dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,1275731761#notes:MagiLuminis - G.R
 >
 
-//Far Future - Sniper Rifle
+//Far Future (Sniper Rifle)
 <
 dimwishlist:item=893527433&perks=1840239774,106909392,706527188,47981717#notes:MagiLuminis - PVP
 dimwishlist:item=893527433&perks=1482024992,106909392,3436462433,893527433#notes:MagiLuminis - PVE
