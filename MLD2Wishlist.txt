@@ -272,6 +272,15 @@ dimwishlist:item=2782847179&perks=4090651448,106909392,3436462433,4082225868#not
 >
 >
 
+//Season 4 - Season of Outlaw (Forsaken)
+<
+//long Shadow (Sniper Rifle)
+dimwishlist:item=3745990145&perks=893526895,106909392,247725512,3400784728#notes:MagiLuminis - PVE
+dimwishlist:item=3745990145&perks=893526892,106909392,957782887,3124871000#notes:MagiLuminis - PVP
+dimwishlist:item=3745990145&perks=893526892,106909392,957782887,588594999#notes:MagiLuminis - PVP
+dimwishlist:item=3745990145&perks=893526895,106909392,957782887,3400784728#notes:MagiLuminis - G.R
+>
+
 //==============================================================================================================
 
 
@@ -10053,11 +10062,6 @@ dimwishlist:item=2957367743&perks=1332244541,3142289711,3161816588,2117683199
 //The Supremacy
 dimwishlist:item=686951703&perks=1840239774,1087426260,957782887,3400784728#notes:myfi - PVE
 dimwishlist:item=686951703&perks=839105230,1087426260,957782887,3400784728#notes:MagiLuminis - PVE
-
-//long shadow (pvp)
-dimwishlist:item=3745990145&perks=893526895,106909392,247725512,3400784728#notes:MagiLuminis - PVE
-dimwishlist:item=3745990145&perks=893526892,106909392,957782887,3124871000#notes:MagiLuminis - PVP
-dimwishlist:item=3745990145&perks=893526892,106909392,957782887,588594999#notes:MagiLuminis - PVP
 
 //bite of the fox (pvp)
 //notes: PvP pick
