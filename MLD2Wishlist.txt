@@ -94,6 +94,13 @@ dimwishlist:item=42351395&perks=3798852852,3796465595,706527188,1275731761#notes
 dimwishlist:item=42351395&perks=332773068,2985827016,2010801679,2396489472#notes:MagiLuminis - PVE
 >
 
+//The Guiding Sight (Scout Rifle - Iron Banner)
+<
+dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,1546637391#notes:MagiLuminis - G.R
+dimwishlist:item=1641430382&perks=2405638014,1885400500,706527188,1546637391#notes:MagiLuminis - G.R
+dimwishlist:item=1641430382&perks=2405638015,1885400500,1866048759,2387244414#notes:MagiLuminis - PVP
+>
+
 //Xenoclast IV
 <
 dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,1546637391#notes:MagiLuminis - PVE
@@ -212,9 +219,9 @@ dimwishlist:item=65611680&perks=445755704,1885400500,588594999,2846385770#notes:
 
 //The Forward Path
 <
-dimwishlist:item=1690783811&perks=2405638015,1968497646,1359896290,4152709778#notes:MagiLuminis - CR
-dimwishlist:item=1690783811&perks=,106909392,2779035018,11551321#notes:MagiLuminis - PVE
-dimwishlist:item=1690783811&perks=,106909392,1359896290,2458213969#notes:MagiLuminis - PVE
+dimwishlist:item=1690783811&perks=2405638015,1968497646,1359896290,4152709778#notes:MagiLuminis - C.R
+dimwishlist:item=1690783811&perks=2405638014,106909392,2779035018,11551321#notes:MagiLuminis - PVE
+dimwishlist:item=1690783811&perks=2405638014,106909392,1359896290,2458213969#notes:MagiLuminis - PVE
 dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,2458213969#notes:MagiLuminis - PVP
 >
 
@@ -254,22 +261,33 @@ dimwishlist:item=1506719573&perks=4090651448,3142289711,1359896290,3425386926#no
 
 //Season 8 - Season of The Undying (Shadowkeep)
 <
-//Apostate
-<
-dimwishlist:item=2164448701&perks=1840239774,2420895100,1556840489,3038247973#notes:MagiLuminis - C.R
-dimwishlist:item=2164448701&perks=1840239774,3142289711,1556840489,3038247973#notes:MagiLuminis - C.R
-dimwishlist:item=2164448701&perks=839105230,3142289711,3124871000,706527188#notes:MagiLuminis - PVP
-dimwishlist:item=2164448701&perks=4090651448,106909392,3124871000,3038247973#notes:MagiLuminis - PVE
->
-//Blasphemer
-<
-dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717#notes:MagiLuminis - C.R
-dimwishlist:item=2782847179&perks=3250034553,1561002382,706527188,47981717#notes:MagiLuminis - C.R
-dimwishlist:item=2782847179&perks=4090651448,791862061,1354429876,4082225868#notes:MagiLuminis - PVE
-dimwishlist:item=2782847179&perks=4090651448,106909392,1354429876,4082225868#notes:MagiLuminis - PVE
-dimwishlist:item=2782847179&perks=4090651448,791862061,3436462433,4082225868#notes:MagiLuminis - PVE
-dimwishlist:item=2782847179&perks=4090651448,106909392,3436462433,4082225868#notes:MagiLuminis - PVE
->
+	//Garden of Salvation Raid
+	<
+		//Sacred Provenance (Pulse Rifle) - Garden of Salvation Raid
+		<
+		dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,1015611457#notes:MagiLuminis - G.R
+		dimwishlist:item=2408405461&perks=839105230,679225683,4267945040,1015611457#notes:MagiLuminis - G.R
+		dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:MagiLuminis - G.R
+		dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457#notes:MagiLuminis - G.R
+		>
+	>
+	//Apostate (Sniper Rifle)
+	<
+	dimwishlist:item=2164448701&perks=1840239774,2420895100,1556840489,3038247973#notes:MagiLuminis - C.R
+	dimwishlist:item=2164448701&perks=1840239774,3142289711,1556840489,3038247973#notes:MagiLuminis - C.R
+	dimwishlist:item=2164448701&perks=839105230,3142289711,3124871000,706527188#notes:MagiLuminis - PVP
+	dimwishlist:item=2164448701&perks=4090651448,106909392,3124871000,3038247973#notes:MagiLuminis - PVE
+	>
+	//Blasphemer (Shotgun)
+	<
+	dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717#notes:MagiLuminis - C.R
+	dimwishlist:item=2782847179&perks=3250034553,1561002382,706527188,47981717#notes:MagiLuminis - C.R
+	dimwishlist:item=2782847179&perks=4090651448,791862061,1354429876,4082225868#notes:MagiLuminis - PVE
+	dimwishlist:item=2782847179&perks=4090651448,106909392,1354429876,4082225868#notes:MagiLuminis - PVE
+	dimwishlist:item=2782847179&perks=4090651448,791862061,3436462433,4082225868#notes:MagiLuminis - PVE
+	dimwishlist:item=2782847179&perks=4090651448,106909392,3436462433,4082225868#notes:MagiLuminis - PVE
+	>
+
 >
 
 //Season 4 - Season of Outlaw (Forsaken)
@@ -298,12 +316,12 @@ dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,1546637391,706
 dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,1774574192,1546637391#notes:MagiLuminis - PVE
 dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,1774574192,2458213969#notes:MagiLuminis - PVE
 
-// Optative
+//Optative
 //notes:Mercules904 (PvP): "the changes to the recoil animation of 150s really set the bar for good handcannons higher, and 180s at the moment struggle to stack up.[...] I'm not really a huge fan of 180 HCs in PvE. [...] If you've been looking for another 180 RPM HC to add to your energy slot, with maybe a bit more potential lethality than Trust, this weapon is an okay choice."|tags:pvp
 dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,1015611457
 dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457
 
-// Martyr's Retribution
+//Martyr's Retribution
 //notes:Mercules904 (PvP): "A very interesting intrinsic perk that I personally find to be a little bit like using a Sunbreaker's Thermite grenade, and I kinda like the utility of it. The hit box for the solar blast is relatively forgiving, and I don't have much issue hitting people, even when they were slightly behind cover."|tags:pvp
 dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,2846385770
 dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,2846385770
@@ -311,9 +329,9 @@ dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,2846385770
 dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,2846385770
 
 
-// Temporal Clause
+//Temporal Clause
 
-// Erentil FR4
+//Erentil FR4
 dimwishlist:item=3027844941&perks=194952923,3868766766,280464955,1600092898
 dimwishlist:item=3027844941&perks=194952922,3868766766,280464955,1600092898
 dimwishlist:item=3027844941&perks=194952923,2969185026,280464955,1600092898
@@ -22549,42 +22567,6 @@ dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,1275731761
 dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,1275731761
 dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1275731761
 
-
-
-title:u/Mercules904's Garden of Salvation raid weapons breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
-
-// Sacred Provenance
-//notes:Mercules904 (must have) - "Long story short, Sacred Provenance is a good weapon, especially if you haven't managed to nab yourself a Blast Furnace yet."
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457
-dimwishlist:item=2408405461&perks=1392496348,679225683,247725512,1015611457
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,1015611457
-dimwishlist:item=2408405461&perks=1840239774,679225683,247725512,1015611457
-dimwishlist:item=2408405461&perks=3661387068,679225683,247725512,1015611457
-dimwishlist:item=2408405461&perks=4090651448,679225683,247725512,1015611457
-dimwishlist:item=2408405461&perks=3250034553,679225683,247725512,1015611457
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
-dimwishlist:item=2408405461&perks=1392496348,1885400500,247725512,1015611457
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457
-dimwishlist:item=2408405461&perks=3661387068,1885400500,247725512,1015611457
-dimwishlist:item=2408405461&perks=4090651448,1885400500,247725512,1015611457
-dimwishlist:item=2408405461&perks=3250034553,1885400500,247725512,1015611457
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,1015611457
-dimwishlist:item=2408405461&perks=1392496348,679225683,1168162263,1015611457
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,1015611457
-dimwishlist:item=2408405461&perks=1840239774,679225683,1168162263,1015611457
-dimwishlist:item=2408405461&perks=3661387068,679225683,1168162263,1015611457
-dimwishlist:item=2408405461&perks=4090651448,679225683,1168162263,1015611457
-dimwishlist:item=2408405461&perks=3250034553,679225683,1168162263,1015611457
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457
-dimwishlist:item=2408405461&perks=1392496348,1885400500,1168162263,1015611457
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,1015611457
-dimwishlist:item=2408405461&perks=3661387068,1885400500,1168162263,1015611457
-dimwishlist:item=2408405461&perks=4090651448,1885400500,1168162263,1015611457
-dimwishlist:item=2408405461&perks=3250034553,1885400500,1168162263,1015611457
-
 // Accrued Redemption
 //notes:Mercules904 - (must have) "I'm really liking this bow option from the raid, in particular because of the awesome combination of perk traits it can roll in the last two slots, with Archer's Tempo and Rapid Hit."
 dimwishlist:item=4095896073&perks=852209214,3827198035,201365942,247725512
@@ -23351,224 +23333,6 @@ dimwishlist:item=3385326721&perks=839105230,1885400500,3300816228,1015611457#not
 dimwishlist:item=3385326721&perks=1840239774,1885400500,3300816228,1015611457#notes:pandapaxxy Garden of Salvation PvE
 dimwishlist:item=3385326721&perks=1392496348,1885400500,3300816228,1015611457#notes:pandapaxxy Garden of Salvation PvE
 
-//Sacred Provenance
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,4267945040,1015611457#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1561002382,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,2420895100,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1840239774,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-dimwishlist:item=2408405461&perks=1482024992,1885400500,4267945040,706527188#notes:pandapaxxy Garden of Salvation PvE
-
 //Accrued Redemption
 dimwishlist:item=4095896073&perks=2801223209,3827198035,201365942,3425386926#notes:pandapaxxy Garden of Salvation PvP
 dimwishlist:item=4095896073&perks=4067834857,3827198035,201365942,3425386926#notes:pandapaxxy Garden of Salvation PvP
@@ -24005,223 +23769,8 @@ dimwishlist:item=3385326721&perks=1467527085,1885400500,3513791699,3523296417#no
 dimwishlist:item=3385326721&perks=839105230,1885400500,3513791699,3523296417#notes:pandapaxxy Garden of Salvation PvP
 dimwishlist:item=3385326721&perks=4090651448,1885400500,3513791699,3523296417#notes:pandapaxxy Garden of Salvation PvP
 
-//Sacred Provenance
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,706527188#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,957782887#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1561002382,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=202670084,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
-dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,1015611457#notes:pandapaxxy Garden of Salvation PvP
+
+
 
 //Zealot's Reward
 dimwishlist:item=2209003210&perks=3250034553,2969185026,3300816228,1600092898#notes:MagiLuminis - PVE
