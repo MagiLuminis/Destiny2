@@ -192,8 +192,9 @@ dimwishlist:item=1253087083&perks=4090651448,106909392,3400784728,2213355989#not
 
 //Nature of the Beast
 <
-dimwishlist:item=1835747805&perks=1926090093,3142289711,957782887,2846385770#notes:MagiLuminis - PVP
-dimwishlist:item=1835747805&perks=1926090094,3142289711,957782887,2846385770#notes:MagiLuminis - PVP
+dimwishlist:item=1835747805&perks=1926090095,106909392,706527188,1546637391#notes:MagiLuminis - PVE - 
+dimwishlist:item=1835747805&perks=1926090093,3142289711,957782887,2846385770#notes:MagiLuminis - PVP - 
+dimwishlist:item=1835747805&perks=1926090094,3142289711,957782887,2846385770#notes:MagiLuminis - PVP - 
 >
 
 //Negativer Space
@@ -268,6 +269,12 @@ dimwishlist:item=2408405461&perks=839105230,679225683,4267945040,1015611457#note
 dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:MagiLuminis - G.R
 dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457#notes:MagiLuminis - G.R
 >
+//Zealot's Reward (Fusion Rifle) - Garden Of Salvation Raid
+<
+dimwishlist:item=2209003210&perks=3250034553,2969185026,3300816228,1600092898#notes:MagiLuminis - PVE
+dimwishlist:item=2209003210&perks=3250034553,2969185026,3275789089,1683379515#notes:MagiLuminis - PVE
+>
+
 //Apostate (Sniper Rifle)
 <
 dimwishlist:item=2164448701&perks=1840239774,2420895100,1556840489,3038247973#notes:MagiLuminis - C.R
@@ -23768,9 +23775,7 @@ dimwishlist:item=3385326721&perks=4090651448,1885400500,3513791699,3523296417#no
 
 
 
-//Zealot's Reward
-dimwishlist:item=2209003210&perks=3250034553,2969185026,3300816228,1600092898#notes:MagiLuminis - PVE
-dimwishlist:item=2209003210&perks=3250034553,2969185026,3275789089,1683379515#notes:MagiLuminis - PVE
+
 
 
 //Braytech Werewolf
