@@ -260,6 +260,15 @@ dimwishlist:item=211938782&perks=852209214,3429800428,706527188,47981717#notes:M
 
 //Season 10 - Season of The Worthy
 <
+
+//Seventh Seraph SAW
+<
+dimwishlist:item=2582755344&perks=4090651448,1087426260,3300816228,1546637391#notes:MagiLuminis - G.R - 
+dimwishlist:item=2582755344&perks=4090651448,1968497646,3300816228,1546637391#notes:MagiLuminis - G.R - 
+dimwishlist:item=2582755344&perks=839105230,1087426260,3300816228,1546637391#notes:MagiLuminis - G.R - 
+dimwishlist:item=2582755344&perks=839105230,1968497646,3300816228,1546637391#notes:MagiLuminis - G.R - 
+>
+
 //True Prophecy
 <
 dimwishlist:item=2742838700&perks=1926090092,3142289711,2846385770,3038247973#notes:MagiLuminis - PVP
@@ -16755,16 +16764,6 @@ dimwishlist:item=3937866388&perks=1840239774,3177308360,4267945040,1546637391
 dimwishlist:item=3937866388&perks=3661387068,3177308360,4267945040,1546637391
 dimwishlist:item=3937866388&perks=1392496348,3177308360,4267945040,1546637391
 
-//Seventh Seraph SAW
-dimwishlist:item=2582755344&perks=4090651448,1087426260,3300816228,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=2582755344&perks=4090651448,1087426260,2284787283,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=2582755344&perks=4090651448,1968497646,3300816228,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=2582755344&perks=4090651448,1968497646,2284787283,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=2582755344&perks=839105230,1087426260,3300816228,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=2582755344&perks=839105230,1087426260,2284787283,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=2582755344&perks=839105230,1968497646,3300816228,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=2582755344&perks=839105230,1968497646,2284787283,1546637391#notes:MagiLuminis - PVE
-
 //IKELOS_HC_v1.0.2
 //notes:pandapaxxy (PvE / M+KB): "The Ikelos hand cannon is back and my gripes with it previously are still in effect. A low handling and reload speed coupled with a piss-poor magazine make for an overall poor experience." Recommended MW: Reload.|tags:pve,mkb
 dimwishlist:item=1200824700&perks=1840239774,1087426260,3400784728,3425386926
@@ -20583,12 +20582,6 @@ dimwishlist:item=410996590&perks=1926090093,1885400500,1820235745,3425386926
 dimwishlist:item=410996590&perks=1926090092,1885400500,1820235745,3425386926
 dimwishlist:item=410996590&perks=1926090093,1885400500,1820235745,4082225868
 dimwishlist:item=410996590&perks=1926090092,1885400500,1820235745,4082225868
-
-// Jack Queen King 3 (PvP)
-//notes:Mercules904 notes (pretty good PvP): "This isn't a great PvP gun on it's own, with Spare Rations being better pretty much across the board, but if you get a Subsistence and Rampage or Swashbuckler roll, I'd give it a shot for sure!"
-
-// Jack Queen King 3 (PvE)
-//notes:Mercules904 notes (pretty good PvE): "Lightweights aren't the most useful guns in PvE, but it's really easy to get a great roll on this one, with almost any of the trait perks being useful."
 
 // Jack Queen King 3 (PvE)
 //notes:Mercules904 notes (pretty good PvE): "Lightweights aren't the most useful guns in PvE, but it's really easy to get a great roll on this one, with almost any of the trait perks being useful."
