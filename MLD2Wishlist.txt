@@ -1,5 +1,10 @@
 //Season 14 - Season of the Splicer
 <
+//Crown-Splitter (Swoard)
+<
+dimwishlist:item=2782325302&perks=436053704,2349202967,1749209109,1546637391#notes:MagiLuminis - G.R - 
+>
+
 //Ingition Code (Grenade Launcher)
 <
 dimwishlist:item=304659313&perks=1441682018,3301904089,2010801679,1546637391#notes:MagiLuminis - G.R - 
@@ -352,10 +357,10 @@ dimwishlist:item=3745990145&perks=893526895,106909392,957782887,3400784728#notes
 >
 
 //Outrageous Fortune
->
+<
 dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,706527188#notes:MagiLuminis - G.R - 
 >
-
+>
 //==============================================================================================================
 
 
