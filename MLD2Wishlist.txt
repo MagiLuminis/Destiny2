@@ -108,6 +108,14 @@ dimwishlist:item=3335343363&perks=839105230,689005463,588594999,957782887#notes:
 dimwishlist:item=3335343363&perks=1840239774,1687452232,2779035018,893527433#notes:MagiLuminis - G.R
 >
 
+//The Third Axiom (Pulse Rifle)
+<
+dimwishlist:item=4156253727&perks=839105230,1885400500,2387244414,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=4156253727&perks=839105230,1885400500,2387244414,1015611457#notes:MagiLuminis - G.R - 
+dimwishlist:item=4156253727&perks=839105230,1885400500,2387244414,1546637391#notes:MagiLuminis - G.R - 
+dimwishlist:item=4156253727&perks=839105230,1885400500,2387244414,460017080#notes:MagiLuminis - G.R - 
+>
+
 //Trinary System (Fusion Rifle)
 <
 dimwishlist:item=3258665412&perks=839105230,1687452232,3300816228,2213355989#notes:MagiLuminis - G.R
