@@ -17,6 +17,11 @@ dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,2396489472#no
 dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,1683379515#notes:MagiLuminis - G.R - 
 >
 
+//Pleoades Corrector (Scout Rifle)
+<
+dimwishlist:item=3556999246&perks=3250034553,1885400500,3124871000,2458213969#notes:MagiLuminis - G.R - 
+>
+
 //Shattered Cipher (Machinegun)
 <
 dimwishlist:item=2434225986&perks=4090651448,106909392,3300816228,3425386926#notes:MagiLuminis - G.R - 
