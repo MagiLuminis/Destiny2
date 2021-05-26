@@ -65,6 +65,13 @@ dimwishlist:item=2121785039&perks=1482024992,1087426260,247725512,3865257976#not
 dimwishlist:item=2121785039&perks=1482024992,1087426260,247725512,4104185692#notes:MagiLuminis - G.R
 >
 
+//Eternal Blazon (Scout Rifle)
+<
+dimwishlist:item=3514096004&perks=194952923,1885400500,4267945040,1015611457#notes:MagiLuminis - G.R - 
+dimwishlist:item=3514096004&perks=194952923,1561002382,4267945040,1015611457#notes:MagiLuminis - G.R - 
+dimwishlist:item=3514096004&perks=194952923,1885400500,247725512,1015611457#notes:MagiLuminis - G.R - 
+>
+
 //Extraordinary Rendition (SMG)
 <
 dimwishlist:item=1097616550&perks=1482024992,106909392,3643424744,3425386926#notes:MagiLuminis - G.R - 
