@@ -17,6 +17,14 @@ dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,2396489472#no
 dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,1683379515#notes:MagiLuminis - G.R - 
 >
 
+//Occulent Finality (Sniper Rifle)
+<
+dimwishlist:item=852551895&perks=839105230,1885400500,957782887,47981717#notes:MagiLuminis - G.R - 
+dimwishlist:item=852551895&perks=839105230,1885400500,957782887,1546637391#notes:MagiLuminis - G.R - 
+dimwishlist:item=852551895&perks=839105230,1885400500,3300816228,47981717#notes:MagiLuminis - G.R - 
+dimwishlist:item=852551895&perks=839105230,1885400500,3300816228,1546637391#notes:MagiLuminis - G.R - 
+>
+
 //Pleoades Corrector (Scout Rifle)
 <
 dimwishlist:item=3556999246&perks=3250034553,1885400500,3124871000,2458213969#notes:MagiLuminis - G.R - 
