@@ -1,5 +1,13 @@
 //Season 14 - Season of the Splicer
 <
+//Chroma Rush (Auto Rifle)
+<
+dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=1119734784&perks=4090651448,3142289711,2779035018,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=1119734784&perks=4090651448,3142289711,1820235745,3425386926#notes:MagiLuminis - G.R - 
+>
+
 //Crown-Splitter (Swoard)
 <
 dimwishlist:item=2782325302&perks=436053704,2349202967,1749209109,1546637391#notes:MagiLuminis - G.R - 
@@ -75,8 +83,6 @@ dimwishlist:item=3514096004&perks=194952923,1885400500,247725512,1015611457#note
 //Extraordinary Rendition (SMG)
 <
 dimwishlist:item=1097616550&perks=1482024992,106909392,3643424744,3425386926#notes:MagiLuminis - G.R - 
-dimwishlist:item=1097616550&perks=1482024992,106909392,3643424744,3425386926#notes:MagiLuminis - G.R - 
-dimwishlist:item=1097616550&perks=4090651448,106909392,3643424744,3425386926#notes:MagiLuminis - G.R - 
 dimwishlist:item=1097616550&perks=4090651448,106909392,3643424744,3425386926#notes:MagiLuminis - G.R - 
 dimwishlist:item=1097616550&perks=3250034553,3142289711,2387244414,1890422124#notes:MagiLuminis - PVP - 
 >
