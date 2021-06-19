@@ -56,6 +56,14 @@ dimwishlist:item=2272470786&perks=4090651448,1885400500,2779035018,2458213969#no
 dimwishlist:item=2272470786&perks=4090651448,1885400500,2779035018,3865257976#notes:MagiLuminis - G.R - 
 >
 
+//Survivor's Epitaph (Hand Cannon)
+<
+dimwishlist:item=310708513&perks=4090651448,1885400500,247725512,1015611457#notes:MagiLuminis - G.R - 
+dimwishlist:item=310708513&perks=839105230,1885400500,247725512,1015611457#notes:MagiLuminis - G.R - 
+dimwishlist:item=310708513&perks=839105230,1885400500,247725512,2458213969#notes:MagiLuminis - G.R - 
+dimwishlist:item=310708513&perks=4090651448,1885400500,247725512,2458213969#notes:MagiLuminis - G.R - 
+>
+
 //The Vision (Side Arm)
 <
 dimwishlist:item=2414141462&perks=445755707,3142289711,4267945040,1015611457#notes:MagiLuminis - G.R - 
