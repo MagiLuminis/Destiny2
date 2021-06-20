@@ -1,5 +1,11 @@
 //Season 14 - Season of the Splicer
 <
+//Archon's Thunder (Machinegun)
+<
+dimwishlist:item=1967303408&perks=839105230,3142289711,2846385770,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=1967303408&perks=4090651448,3142289711,2846385770,3425386926#notes:MagiLuminis - G.R - 
+>
+
 //Chroma Rush (Auto Rifle)
 <
 dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,3425386926#notes:MagiLuminis - G.R - 
