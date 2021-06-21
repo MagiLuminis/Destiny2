@@ -6,6 +6,13 @@ dimwishlist:item=1967303408&perks=839105230,3142289711,2846385770,3425386926#not
 dimwishlist:item=1967303408&perks=4090651448,3142289711,2846385770,3425386926#notes:MagiLuminis - G.R - 
 >
 
+//Borrowed Time (Sub-Machinegun)
+<
+dimwishlist:item=875848769&perks=4090651448,1885400500,2779035018,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=875848769&perks=839105230,1885400500,3643424744,4104185692#notes:MagiLuminis - PVP - 
+dimwishlist:item=875848769&perks=4090651448,1885400500,3643424744,3865257976#notes:MagiLuminis - PVE - 
+>
+
 //Chroma Rush (Auto Rifle)
 <
 dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,3425386926#notes:MagiLuminis - G.R - 
@@ -63,7 +70,7 @@ dimwishlist:item=599895591&perks=3250034553,679225683,588594999,3865257976#notes
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,47981717#notes:MagiLuminis - PVP - 
 >
 
-//Stochastic Variable (Sub Machinegun)
+//Stochastic Variable (Sub-Machinegun)
 <
 dimwishlist:item=2272470786&perks=4090651448,1885400500,2779035018,2458213969#notes:MagiLuminis - G.R - 
 dimwishlist:item=2272470786&perks=4090651448,1885400500,2779035018,3865257976#notes:MagiLuminis - G.R - 
