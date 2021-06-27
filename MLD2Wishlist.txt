@@ -409,6 +409,7 @@ dimwishlist:item=1506719573&perks=4090651448,3142289711,1359896290,3425386926#no
 
 //Season 8 - Season of The Undying (Shadowkeep)
 <
+
 //Sacred Provenance (Pulse Rifle) - Garden of Salvation Raid
 <
 dimwishlist:item=2408405461&perks=839105230,1885400500,4267945040,1015611457#notes:MagiLuminis - G.R
@@ -416,6 +417,7 @@ dimwishlist:item=2408405461&perks=839105230,679225683,4267945040,1015611457#note
 dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457#notes:MagiLuminis - G.R
 dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457#notes:MagiLuminis - G.R
 >
+
 //Zealot's Reward (Fusion Rifle) - Garden Of Salvation Raid
 <
 dimwishlist:item=2209003210&perks=3250034553,2969185026,3300816228,1600092898#notes:MagiLuminis - PVE
@@ -429,6 +431,7 @@ dimwishlist:item=2164448701&perks=1840239774,3142289711,1556840489,3038247973#no
 dimwishlist:item=2164448701&perks=839105230,3142289711,3124871000,706527188#notes:MagiLuminis - PVP
 dimwishlist:item=2164448701&perks=4090651448,106909392,3124871000,3038247973#notes:MagiLuminis - PVE
 >
+
 //Blasphemer (Shotgun)
 <
 dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717#notes:MagiLuminis - C.R
@@ -437,6 +440,13 @@ dimwishlist:item=2782847179&perks=4090651448,791862061,1354429876,4082225868#not
 dimwishlist:item=2782847179&perks=4090651448,106909392,1354429876,4082225868#notes:MagiLuminis - PVE
 dimwishlist:item=2782847179&perks=4090651448,791862061,3436462433,4082225868#notes:MagiLuminis - PVE
 dimwishlist:item=2782847179&perks=4090651448,106909392,3436462433,4082225868#notes:MagiLuminis - PVE
+>
+
+//Heretic (Rocket Launcher)
+<
+dimwishlist:item=3067821200&perks=1441682018,3796465595,951095735,1275731761#notes:MagiLuminis - G.R - 
+dimwishlist:item=3067821200&perks=1441682018,3796465595,951095735,3523296417#notes:MagiLuminis - G.R - 
+dimwishlist:item=3067821200&perks=3525010810,3492396210,3523296417,1275731761#notes:MagiLuminis - G.R - 
 >
 >
 
@@ -19300,18 +19310,6 @@ dimwishlist:item=3369545945&perks=839105230,1885400500,280464955,3425386926#note
 dimwishlist:item=3369545945&perks=1840239774,679225683,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=3369545945&perks=839105230,679225683,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
 
-// Heretic (PvP)
-//notes:Mercules904 (PVP; pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
-dimwishlist:item=3067821200&perks=1478423395,1996142143,2846385770,1275731761
-
-// Heretic (PvE)
-//notes:Mercules904 (pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
-dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,1275731761
-
-// Heretic (PvE; curated)
-//notes:Mercules904 (pretty good PvE; curated) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
-dimwishlist:item=3067821200&perks=3525010810,3492396210,3523296417,1275731761
-
 // Premonition (PvE)
 //notes:pandapaxxy (PvE): "Premonition is special in many ways. Being one of three pulses to roll Demolitionist, and the only high-impact frame to belong to the energy slot. Similar to how Blasphemer diversified your loadout as a shotgun Premonition also has the same effect" Recommended MW - Reload.
 dimwishlist:item=208088207&perks=839105230,1561002382,1168162263,3523296417
@@ -19389,43 +19387,6 @@ dimwishlist:item=208088207&perks=839105230,1561002382,1168162263,460017080
 dimwishlist:item=208088207&perks=3250034553,1885400500,1168162263,460017080
 dimwishlist:item=208088207&perks=1482024992,1885400500,1168162263,460017080
 dimwishlist:item=208088207&perks=839105230,1885400500,1168162263,460017080
-
-// Heretic (PvE)
-//notes:pandapaxxy (PvE): "Finally a rocket that can compete in today’s meta. There’s a small “exploit” with sunbracers and this rocket with Demo and Cluster bombs, but that’s not exactly everyone’s cup of tea." Recommended MW - Reload.
-dimwishlist:item=3067821200&perks=3525010810,3796465595,3523296417,1275731761
-dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1441682018,3796465595,3523296417,1275731761
-dimwishlist:item=3067821200&perks=3525010810,3796465595,3523296417,1015611457
-dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,1015611457
-dimwishlist:item=3067821200&perks=1441682018,3796465595,3523296417,1015611457
-dimwishlist:item=3067821200&perks=3525010810,3796465595,3523296417,706527188
-dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,706527188
-dimwishlist:item=3067821200&perks=1441682018,3796465595,3523296417,706527188
-
-// Heretic (PvP)
-//notes:pandapaxxy (PvP): "Finally a rocket that can compete in today’s meta. There’s a small “exploit” with sunbracers and this rocket with Demo and Cluster bombs, but that’s not exactly everyone’s cup of tea." Recommended MW - Blast Radius.
-dimwishlist:item=3067821200&perks=1844523823,1996142143,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1441682018,1996142143,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1478423395,1996142143,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1844523823,2822142346,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1441682018,2822142346,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1478423395,2822142346,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1844523823,1996142143,3523296417,706527188
-dimwishlist:item=3067821200&perks=1441682018,1996142143,3523296417,706527188
-dimwishlist:item=3067821200&perks=1478423395,1996142143,3523296417,706527188
-dimwishlist:item=3067821200&perks=1844523823,2822142346,3523296417,706527188
-dimwishlist:item=3067821200&perks=1441682018,2822142346,3523296417,706527188
-dimwishlist:item=3067821200&perks=1478423395,2822142346,3523296417,706527188
-
-// Heretic (curated)
-//notes:pandapaxxy (curated): "Finally a rocket that can compete in today’s meta. There’s a small “exploit” with sunbracers and this rocket with Demo and Cluster bombs, but that’s not exactly everyone’s cup of tea." Recommended MW - Blast Radius.
-dimwishlist:item=3067821200&perks=3525010810,1996142143,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1478423395,1996142143,3523296417,1275731761
-dimwishlist:item=3067821200&perks=3525010810,3492396210,3523296417,1275731761
-dimwishlist:item=3067821200&perks=1478423395,3492396210,3523296417,1275731761
-
-title:u/pandapaxxy's Season of the Dawn Ritual Weapons breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eaza6n/season_of_the_dawn_ritual_weapons/
 
 // Buzzard
 //notes:pandapaxxy: "One of my favorite archetypes of sidearms Buzzard is certainly gonna see some playtime in my hands. [...] Swashbuckler is also really nice on primary weapons for PvE damage uptime and constant cycling of high damage. [...] Please send clips of you wiping an entire team with 4ttc. I want to see it." Recommended MW - Stability.
