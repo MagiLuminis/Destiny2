@@ -241,10 +241,10 @@ dimwishlist:item=1641430382&perks=2405638015,1885400500,1866048759,2387244414#no
 
 //Xenoclast IV
 <
-dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,1546637391#notes:MagiLuminis - PVE
-dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2360754333#notes:MagiLuminis - PVE
-dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2679249093#notes:MagiLuminis - PVE
-dimwishlist:item=2891672170&perks=1332244541,679225683,3300816228,699525795#notes:MagiLuminis - PVP
+dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,1546637391#notes:MagiLuminis - PVE - 
+dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2360754333#notes:MagiLuminis - PVE - 
+dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,2679249093#notes:MagiLuminis - PVE - 
+dimwishlist:item=2891672170&perks=1332244541,679225683,3300816228,699525795#notes:MagiLuminis - PVP - 
 >
 
 //==============================================================================================================
