@@ -96,7 +96,7 @@ dimwishlist:item=2414141462&perks=445755707,3142289711,4267945040,1683379515#not
 <
 //Dead Man's Tale (Scout Rifle) - (Exotic)
 <
-dimwishlist:item=3654674561&perks=4090651448,2635532173,1354429876,4259401308#notes:MagiLuminis - G.R - 
+dimwishlist:item=3654674561&perks=4090651448,3142289711,1354429876,4259401308#notes:MagiLuminis - G.R - 
 dimwishlist:item=3654674561&perks=4090651448,1885400500,1546637391,4259401308#notes:MagiLuminis - PVP - 
 dimwishlist:item=3654674561&perks=4090651448,1885400500,2450788523,4259401308#notes:MagiLuminis - PVE - 
 dimwishlist:item=3654674561&perks=4090651448,1885400500,1820235745,4259401308#notes:MagiLuminis - PVE - 
