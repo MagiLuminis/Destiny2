@@ -94,6 +94,14 @@ dimwishlist:item=2414141462&perks=445755707,3142289711,4267945040,1683379515#not
 
 //Season 13 - Season of the Chosen
 <
+//Dead Man's Tale (Scout Rifle) - (Exotic)
+<
+dimwishlist:item=3654674561&perks=4090651448,2635532173,1354429876,4259401308#notes:MagiLuminis - G.R - 
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1546637391,4259401308#notes:MagiLuminis - PVP - 
+dimwishlist:item=3654674561&perks=4090651448,1885400500,2450788523,4259401308#notes:MagiLuminis - PVE - 
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1820235745,4259401308#notes:MagiLuminis - PVE - 
+>
+
 //Bottom Dollar (Hand Cannon)
 <
 dimwishlist:item=1046651176&perks=4090651448,3142289711,2846385770,3425386926#notes:MagiLuminis - PVP
@@ -168,7 +176,7 @@ dimwishlist:item=3258665412&perks=839105230,1687452232,2450788523,2213355989#not
 //Season 12 - Season of the Hunt
 <
 
-//Hawkmoon (Exotic)
+//Hawkmoon (Hand Cannon) - (Exotic)
 <
 dimwishlist:item=3856705927&perks=4090651448,1431678320,47981717,3326204863#notes:FalloutPlays - G.R - 
 dimwishlist:item=3856705927&perks=1482024992,1431678320,47981717,3326204863#notes:FalloutPlays - G.R - 
