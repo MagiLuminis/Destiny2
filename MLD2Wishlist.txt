@@ -31,6 +31,11 @@ dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#no
 dimwishlist:item=2591111628&perks=1332244541,3142289711,706527188,957782887#notes:MagiLuminis - PVP - 
 >
 
+//Farewell (Sidearm)
+<
+dimwishlist:item=541188001&perks=4090651448,3142289711,4267945040,1546637391#notes:MagiLuminis - G.R - 
+>
+
 //Gridskipper (Pulse Rifle)
 <
 dimwishlist:item=1621558458&perks=839105230,1885400500,588594999,2458213969#notes:MagiLuminis - PVP - 
