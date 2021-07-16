@@ -26,6 +26,11 @@ dimwishlist:item=1119734784&perks=4090651448,3142289711,1820235745,3425386926#no
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#notes:MagiLuminis - G.R - 
 >
 
+//Compass Rose (Shotgun - Solctice 2021)
+<
+dimwishlist:item=2591111628&perks=1332244541,3142289711,706527188,957782887#notes:MagiLuminis - PVP - 
+>
+
 //Gridskipper (Pulse Rifle)
 <
 dimwishlist:item=1621558458&perks=839105230,1885400500,588594999,2458213969#notes:MagiLuminis - PVP - 
@@ -69,6 +74,7 @@ dimwishlist:item=599895591&perks=3250034553,3142289711,706527188,4104185692#note
 dimwishlist:item=599895591&perks=3250034553,679225683,588594999,2848615171#notes:MagiLuminis - G.R - 
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,47981717#notes:MagiLuminis - PVP - 
 dimwishlist:item=599895591&perks=3250034553,3142289711,706527188,47981717#notes:MagiLuminis - PVP - 
+dimwishlist:item=2591111628&perks=1332244541,3142289711,706527188,957782887#notes:MagiLuminis - PVP - 
 >
 
 //Stochastic Variable (Sub-Machinegun)
