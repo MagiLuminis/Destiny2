@@ -153,6 +153,12 @@ dimwishlist:item=893527433&perks=839105230,3142289711,706527188,47981717#notes:M
 dimwishlist:item=893527433&perks=4090651448,106909392,3436462433,4104185692#notes:MagiLuminis - PVE
 >
 
+//Frozen Orbit (SniperRifle)
+<
+dimwishlist:item=3473290087&perks=1482024992,3142289711,2450788523,957782887#notes:MagiLuminis - PVP - 
+dimwishlist:item=3473290087&perks=1482024992,3142289711,2450788523,1546637391#notes:MagiLuminis - PVE - 
+>
+
 //Royal Entry (Rocket Launcher)
 <
 dimwishlist:item=2448907086&perks=3525010810,3796465595,3300816228,2396489472#notes:MagiLuminis - G.R - 
