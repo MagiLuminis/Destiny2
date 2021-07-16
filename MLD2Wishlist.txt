@@ -76,7 +76,7 @@ dimwishlist:item=2434225986&perks=4090651448,106909392,3300816228,3425386926#not
 //Sojourner's Tale (Shotgun - SLUG)
 <
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692#notes:MagiLuminis - G.R - 
-dimwishlist:item=599895591&perks=3250034553,3142289711,3300816228,4104185692#notes:MagiLuminis - G.R - 
+dimwishlist:item=599895591&perks=3250034553,3142289711,3300816228,4104185692#notes:MagiLuminis - PVP - 
 >
 
 //Stochastic Variable (Sub-Machinegun)
