@@ -15,10 +15,10 @@ dimwishlist:item=875848769&perks=4090651448,1885400500,3643424744,3865257976#not
 
 //Chroma Rush (Auto Rifle)
 <
-dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,3425386926#notes:MagiLuminis - G.R - 
-dimwishlist:item=1119734784&perks=4090651448,3142289711,2779035018,3425386926#notes:MagiLuminis - G.R - 
-dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926#notes:MagiLuminis - G.R - 
-dimwishlist:item=1119734784&perks=4090651448,3142289711,1820235745,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=1119734784&perks=839105230,106909392,2779035018,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=1119734784&perks=839105230,106909392,1820235745,3425386926#notes:MagiLuminis - G.R - 
+dimwishlist:item=1119734784&perks=839105230,3142289711,1820235745,3425386926#notes:MagiLuminis - G.R - 
 >
 
 //Crown-Splitter (Sword)
@@ -51,8 +51,9 @@ dimwishlist:item=304659313&perks=1441682018,3301904089,2010801679,3523296417#not
 
 //Memory Interdict (Grenade Launcher)
 <
-dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,2396489472#notes:MagiLuminis - G.R - 
-dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,1683379515#notes:MagiLuminis - G.R - 
+dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472#notes:MagiLuminis - G.R - 
+dimwishlist:item=3165547384&perks=3525010810,3301904089,951095735,1683379515#notes:MagiLuminis - PVE - 
+dimwishlist:item=3165547384&perks=3525010810,3301904089,951095735,2396489472#notes:MagiLuminis - PVP - 
 >
 
 //Occulent Finality (Sniper Rifle)
