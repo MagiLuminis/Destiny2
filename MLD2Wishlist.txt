@@ -1,13 +1,3 @@
-//Season 17 - Season of the Haunted
-<
-//Bump in the Night
-dimwishlist:item=1959650777&perks=3525010810,3796465595,3300816228,2396489472
-dimwishlist:item=1959650777&perks=3525010810,3796465595,3977735242,1546637391
-//Firefright
-//Hollow Denial
-//Nezarec's Whisper
-//Tears of Contrition
-dimwishlist:item=1366394399&perks=1840239774,3142289711,1428297954,3038247973
-//Without Remorse
+
 
 
